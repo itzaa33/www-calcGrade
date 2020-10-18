@@ -1,0 +1,25 @@
+.App
+{
+  width:100vw;
+  height:100vh;
+
+  display:flex;
+}
+
+h1, .container-grade
+{
+  font-size:2rem !important;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.container
+{
+  width: 100%;
+  max-width: 600px !important;
+
+  display:flex;
+  flex-direction:column;
+
+  margin:auto;
+}
